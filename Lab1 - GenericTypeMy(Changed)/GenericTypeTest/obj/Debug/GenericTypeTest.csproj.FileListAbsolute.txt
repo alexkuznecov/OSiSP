@@ -1,0 +1,7 @@
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\Lab1 - GenericTypeMy\GenericTypeTest\bin\Debug\GenericTypeTest.dll
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\Lab1 - GenericTypeMy\GenericTypeTest\bin\Debug\GenericTypeTest.pdb
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\Lab1 - GenericTypeMy\GenericTypeTest\bin\Debug\Lab1 - GenericTypeMy.exe
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\Lab1 - GenericTypeMy\GenericTypeTest\bin\Debug\Lab1 - GenericTypeMy.pdb
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\Lab1 - GenericTypeMy\GenericTypeTest\obj\Debug\GenericTypeTest.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\Lab1 - GenericTypeMy\GenericTypeTest\obj\Debug\GenericTypeTest.dll
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\Lab1 - GenericTypeMy\GenericTypeTest\obj\Debug\GenericTypeTest.pdb

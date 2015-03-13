@@ -1,0 +1,12 @@
+C:\Users\Alek\Source\Workspaces\Workspace\Lab1 - GenericTypeMy\Lab1 - GenericTypeMy\bin\Debug\Lab1 - GenericTypeMy.exe.config
+C:\Users\Alek\Source\Workspaces\Workspace\Lab1 - GenericTypeMy\Lab1 - GenericTypeMy\bin\Debug\Lab1 - GenericTypeMy.exe
+C:\Users\Alek\Source\Workspaces\Workspace\Lab1 - GenericTypeMy\Lab1 - GenericTypeMy\bin\Debug\Lab1 - GenericTypeMy.pdb
+C:\Users\Alek\Source\Workspaces\Workspace\Lab1 - GenericTypeMy\Lab1 - GenericTypeMy\obj\Debug\Lab1 - GenericTypeMy.csprojResolveAssemblyReference.cache
+C:\Users\Alek\Source\Workspaces\Workspace\Lab1 - GenericTypeMy\Lab1 - GenericTypeMy\obj\Debug\Lab1 - GenericTypeMy.exe
+C:\Users\Alek\Source\Workspaces\Workspace\Lab1 - GenericTypeMy\Lab1 - GenericTypeMy\obj\Debug\Lab1 - GenericTypeMy.pdb
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\Lab1 - GenericTypeMy\Lab1 - GenericTypeMy\bin\Debug\Lab1 - GenericTypeMy.exe.config
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\Lab1 - GenericTypeMy\Lab1 - GenericTypeMy\obj\Debug\Lab1 - GenericTypeMy.exe
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\Lab1 - GenericTypeMy\Lab1 - GenericTypeMy\obj\Debug\Lab1 - GenericTypeMy.pdb
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\Lab1 - GenericTypeMy\Lab1 - GenericTypeMy\obj\Debug\Lab1 - GenericTypeMy.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\Lab1 - GenericTypeMy\Lab1 - GenericTypeMy\bin\Debug\Lab1 - GenericTypeMy.exe
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\Lab1 - GenericTypeMy\Lab1 - GenericTypeMy\bin\Debug\Lab1 - GenericTypeMy.pdb
