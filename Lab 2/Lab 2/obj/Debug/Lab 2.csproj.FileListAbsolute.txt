@@ -1,0 +1,5 @@
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Lab 2\Lab 2\bin\Debug\Lab 2.dll
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Lab 2\Lab 2\obj\Debug\Lab 2.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Lab 2\Lab 2\obj\Debug\Lab 2.dll
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
