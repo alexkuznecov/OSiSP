@@ -1,0 +1,10 @@
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\Kuznecov.SystemSuportMedicalStation.model\bin\Debug\Kuznecov.SystemSuportMedicalStation.model.dll
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\Kuznecov.SystemSuportMedicalStation.model\bin\Debug\Kuznecov.SystemSuportMedicalStation.model.pdb
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\Kuznecov.SystemSuportMedicalStation.model\obj\Debug\kuznecov.SystemSuportMedicalStation.model.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\Kuznecov.SystemSuportMedicalStation.model\obj\Debug\Kuznecov.SystemSuportMedicalStation.model.dll
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\Kuznecov.SystemSuportMedicalStation.model\obj\Debug\Kuznecov.SystemSuportMedicalStation.model.pdb
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\Kuznecov.SystemSuportMedicalStation.model\bin\Debug\Kuznecov.SystemSuportMedicalStation.model.dll.config
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\Kuznecov.SystemSuportMedicalStation.model\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\Kuznecov.SystemSuportMedicalStation.model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\Kuznecov.SystemSuportMedicalStation.model\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\Kuznecov.SystemSuportMedicalStation.model\bin\Debug\EntityFramework.SqlServer.xml

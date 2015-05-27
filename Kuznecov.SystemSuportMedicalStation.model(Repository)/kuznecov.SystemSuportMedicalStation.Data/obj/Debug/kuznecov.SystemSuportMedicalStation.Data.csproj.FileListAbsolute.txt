@@ -1,0 +1,12 @@
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\kuznecov.SystemSuportMedicalStation.Data\bin\Debug\kuznecov.SystemSuportMedicalStation.Data.dll.config
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\kuznecov.SystemSuportMedicalStation.Data\bin\Debug\kuznecov.SystemSuportMedicalStation.Data.dll
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\kuznecov.SystemSuportMedicalStation.Data\bin\Debug\kuznecov.SystemSuportMedicalStation.Data.pdb
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\kuznecov.SystemSuportMedicalStation.Data\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\kuznecov.SystemSuportMedicalStation.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\kuznecov.SystemSuportMedicalStation.Data\bin\Debug\Kuznecov.SystemSuportMedicalStation.model.dll
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\kuznecov.SystemSuportMedicalStation.Data\bin\Debug\Kuznecov.SystemSuportMedicalStation.model.pdb
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\kuznecov.SystemSuportMedicalStation.Data\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\kuznecov.SystemSuportMedicalStation.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\kuznecov.SystemSuportMedicalStation.Data\obj\Debug\kuznecov.SystemSuportMedicalStation.Data.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\kuznecov.SystemSuportMedicalStation.Data\obj\Debug\kuznecov.SystemSuportMedicalStation.Data.dll
+D:\Visual Studio 2010, 2012 и 2013 Проекты\3REHC\ОСИ\Kuznecov.SystemSuportMedicalStation.model\kuznecov.SystemSuportMedicalStation.Data\obj\Debug\kuznecov.SystemSuportMedicalStation.Data.pdb
